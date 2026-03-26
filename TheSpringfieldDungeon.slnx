@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TSD.Api/TSD.Api.csproj" Id="1a7ad6df-94ee-4321-a443-26d0b3ad72b5" />
+  <Project Path="TSD.Domain/TSD.Domain.csproj" Id="d0ed5283-3203-4e86-9b5c-550e99906784" />
+  <Project Path="TSD.Host/TSD.Host.csproj" Id="cec96483-b268-4fcb-83e7-c1e85a044cf6" />
+  <Project Path="TSD.Infrastructure/TSD.Infrastructure.csproj" Id="f7d5e17d-7dba-4319-951c-56591822ef56" />
+</Solution>
